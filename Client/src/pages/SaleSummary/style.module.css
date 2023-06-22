@@ -1,0 +1,11 @@
+.summary_container{
+    width: 82%;
+    position: absolute;
+    left: 235px;
+    padding: 0 20px 0px 20px;
+}
+.from_date_container,.to_date_container{
+    width: 25%;
+    display: flex;
+    margin: 10px -5px 0 -5px
+}

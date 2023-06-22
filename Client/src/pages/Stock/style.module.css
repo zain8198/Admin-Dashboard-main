@@ -1,0 +1,32 @@
+.stock_container {
+  list-style: none;
+  position: absolute;
+  width: 82%;
+  left: 235px;
+  z-index: -1;
+}
+.title{
+    background-color: #42bcf5;
+    color: white;
+    height: 100px;
+    padding-top: 30px;
+}
+.combo{
+    width: 30% !important;
+    height: 38px;
+    margin-top: 8px;
+}
+.searchbar {
+  height: 38px;
+  font-size: 20px;
+  margin-bottom: 0px;
+  width: 150% !important;
+}
+.pre_btn,.next_btn{
+  cursor: pointer;
+   font-weight: bolder;
+   list-style: none;
+}
+.disable{
+  display: none;
+}

@@ -1,0 +1,23 @@
+.sale_detail_container {
+  width: 82%;
+  position: absolute;
+  left: 235px;
+}
+.from_date_container,.to_date_container {
+  width: 25%;
+  display: flex;
+  margin: 10px -5px 0 -5px;
+}
+.combos_container{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 5px 10px 50px;
+    justify-content: space-between;
+    padding: 0 10px 0 0
+}
+.category_combo,.item_combo,.location_combo{
+    width: 220px;
+    height: 38px;
+    margin-top: 9px
+}

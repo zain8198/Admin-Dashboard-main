@@ -1,0 +1,13 @@
+.dashboard_container{
+    background-color: #deedea;
+    width: 82.1%;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    /* // marginRight:"100px", */
+    left: 230px;
+    background-color: red;
+}
+/* .card_wrapper{
+  
+} */

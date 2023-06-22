@@ -1,0 +1,36 @@
+.purchase_container {
+  position: absolute;
+  width: 82%;
+  left: 235px;
+  z-index: -1;
+}
+.from_date_container,
+.to_date_container {
+  width: 25%;
+  display: flex;
+  margin: 10px -5px 0 -5px;
+}
+.combos_container {
+  width: 95%;
+  display: flex;
+  /* position: fixed; */
+  flex-wrap: wrap;
+  margin: 10px 5px 10px 50px;
+  justify-content: space-between;
+  padding: 0 10px 0 0;
+}
+.category_combo {
+  width: 220px;
+  height: 38px;
+  margin-top: 9px;
+}
+.item_combo{
+    width: 225px;
+    height: 38px;
+    margin-top: 9px
+}
+.location_combo{
+    width: 220px;
+    height: 38px;
+    margin-top: 9px
+}

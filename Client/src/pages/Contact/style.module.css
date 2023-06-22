@@ -1,0 +1,21 @@
+.contact_container {
+  position: fixed;
+  width: 82%;
+  left: 235px;
+  z-index: -1;
+}
+.title {
+  background-color: #42bcf5;
+  color: white;
+  height: 100px;
+  padding-top: 20px;
+}
+.searchbar {
+  height: 40px;
+  font-size: 20px;
+  width: 300px !important;
+  float: right;
+
+  margin-bottom: 20px;
+  margin-right: 20px;
+}

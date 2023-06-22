@@ -1,0 +1,66 @@
+.sidebar_container {
+  width: 230px;
+  height: 100vh;
+  position: fixed;
+  background-color: #f1f3f5;
+}
+.sidebar_logo {
+  width: 100%;
+}
+.sidebar_logo img {
+  margin: 10px 0px 0px 30px;
+  padding-top: 10px;
+  width: 160px;
+}
+.menu_container {
+  font-size: 1.3rem;
+}
+.menu_list {
+  list-style: none;
+}
+.menu_list li {
+  padding: 7px;
+}
+.menu_list li a {
+  text-decoration: none;
+}
+.active {
+  background-color: gainsboro;
+  background-color: rebeccapurple;
+}
+
+.icon_one {
+  text-decoration: none;
+  font-size: 1.5rem;
+  margin-right: 5px;
+
+}
+.icon_two {
+  text-decoration: none;
+  font-size: 1.7rem;
+  margin-right: 5px;
+
+}
+.icon_three {
+  text-decoration: none;
+  font-size: 1.8rem;
+  margin-right: 5px;
+
+}
+.icon_four {
+  text-decoration: none;
+  font-size: 1.4rem;
+  margin-right: 5px;
+
+}
+.icon_five {
+  text-decoration: none;
+  font-size: 1.5rem;
+  margin-right: 5px;
+
+}
+.icon_six {
+  font-size: 1.7rem;
+  color: black;
+  margin-right: 10px;
+}
